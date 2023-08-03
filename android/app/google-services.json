@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357983450493",
+    "project_id": "messageme-app-908ed",
+    "storage_bucket": "messageme-app-908ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357983450493:android:82b0d58058f1ece090c814",
+        "android_client_info": {
+          "package_name": "at.mansour.chat_message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357983450493-lqiueqnjf9ftg06egmobjrqu02sd07c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm0ZpU0ooetbuO1gu94NJ5DSFjWPBye60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357983450493-lqiueqnjf9ftg06egmobjrqu02sd07c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
